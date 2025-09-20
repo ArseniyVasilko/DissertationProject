@@ -77,7 +77,6 @@ def main():
                     reset_output_folder("Graphs/TimeDomain")
                     reset_output_folder("Graphs/PCA")
                     reset_output_folder("OutputArrays/FrequencyPeaks")
-                    reset_output_folder("OutputArrays/SumsOfSquareDifferences")
                     print("All output folders cleaned successfully\n")
                 else:
                     print(">>Negative confirmation, going back to the main menu\n")
