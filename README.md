@@ -1,7 +1,7 @@
 # Audio Extraction and Processing Software for Dissertation Project
 
 ## Overview
-This project provides a Python-based softwarefor audio extraction and processing, for a dissertation project by Arseniy Vasilko. The software includes tools for extracting audio data, performing audio processing tasks, and generating outputs relevant to the research objectives.
+This project provides a Python-based software for audio extraction and processing, for a dissertation project by Arseniy Vasilko. The software includes tools for extracting audio data, performing audio processing tasks, and generating outputs relevant to the research objectives.
 
 ## Prerequisites
 To run this software, ensure you have the following installed on your system:
@@ -48,11 +48,8 @@ Follow these steps to set up and run the software:
    This command installs all dependencies specified in the `requirements.txt` file, such as `numpy`, `librosa`, or other audio-processing libraries, depending on the project's needs.
 
 ## Running the Software
-1. **Locate the Main Script**  
-   The main entry point for the software is typically a Python script (e.g., `main.py` or another designated script). Check the project folder for the primary script or consult the project documentation for specifics.
-
-2. **Execute the Script**  
-   Run the main script using Python:
+1. **Execute the Script**  
+   Run the main script in the root using Python:
    ```bash
    python main.py
    ```
